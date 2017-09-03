@@ -8,7 +8,7 @@ Please note that this cheat script only works with debug builds and not the offi
 
 ## Installation
 
-Copy the file 'cheats.lua' into the Widelands directory.
+Copy the file `cheats.lua` into the Widelands directory.
 
 ## Usage and Effect
 
