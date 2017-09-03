@@ -6,7 +6,7 @@
 --
 -- Usage:
 --   -> During a game open the script console by pressing F6
---   -> Type the following text and press enter: dofile('cheat.lua')
+--   -> Type the following text and press enter: dofile('cheats.lua')
 --   -> Type the following text and press enter: cheat()
 --
 -- Effect:
